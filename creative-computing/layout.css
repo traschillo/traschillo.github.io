@@ -1,0 +1,38 @@
+#left-column {
+	background-color: #001f3f; 
+	width: 40%; 
+	position: absolute;
+    top: 0px;
+    left: 0px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 35px;
+    padding-bottom: 40px;
+
+}
+#right-column {
+	background-color: #FF4136; 
+	width: 40%; 
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 70px;
+    padding-top: 35px;
+}
+
+body{
+	font-family: "Helvetica";
+	color:white;
+}
+
+#footer { 
+	background-color: #3D9970;
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	text-align: 
+		center;
+
+}

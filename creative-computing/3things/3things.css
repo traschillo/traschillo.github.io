@@ -1,0 +1,306 @@
+#square {
+	width: 100px;
+	height: 100px;
+	background: red;
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+#square:hover{
+	background-color: green
+}
+
+#rectangle {
+	width: 20px;
+	height: 40px;
+	background: blue;
+	position: absolute;
+	left: 90px;
+	top: 160px;
+}
+
+#square2 {
+	width: 20px;
+	height: 20px;
+	background: yellow;
+	position: absolute;
+	top: 160px;
+	left: 60px;
+
+}
+
+#square3 {
+	width: 20px;
+	height: 20px;
+	background: yellow;
+	position: absolute;
+	top: 160px;
+	left: 120px;
+}
+
+#square4 {
+	width: 20px;
+	height: 20px;
+	background: yellow;
+	position: absolute;
+	top: 120px;
+	left: 120px;
+}
+
+#square5 {
+	width: 20px;
+	height: 20px;
+	background: yellow;
+	position: absolute;
+	top: 120px;
+	left: 60px;
+}
+
+#circle {
+	width: 3px;
+	height: 3px;
+	background: yellow;
+	border-radius: 50px;
+	border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	top: 180px;
+	left: 105px;
+}
+
+#rectangle2 {
+	width: 15px;
+	height: 50px;
+	background: red;
+	position: absolute;
+	left: 120px;
+	top: 22px;
+}
+
+#triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid blue;
+	position: absolute;
+	left: 50px;
+}
+
+#house1container {
+	position: relative;
+}
+
+#rectangle3 {
+	width: 100px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	left: 230px;
+}
+
+#rectangle4 {
+	width: 20px;
+	height: 40px;
+	background: yellow;
+	position: absolute;
+	left: 270px;
+	top: 226px;
+}
+
+#rectangle4:hover{
+	background-color: green
+}
+
+#circle2 {
+	width: 3px;
+	height: 3px;
+	background: red;
+	border-radius: 50px;
+	border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	top: 246px;
+	left: 285px;
+}
+
+#square6 {
+	width: 20px;
+	height: 20px;
+	background: red;
+	position: absolute;
+	top: 190px;
+	left: 300px;
+}
+
+#square7 {
+	width: 20px;
+	height: 20px;
+	background: red;
+	position: absolute;
+	top: 140px;
+	left: 300px;
+}
+
+#square8 {
+	width: 20px;
+	height: 20px;
+	background: red;
+	position: absolute;
+	top: 90px;
+	left: 300px;
+}
+
+#square9 {
+	width: 20px;
+	height: 20px;
+	background: red;
+	position: absolute;
+	top: 190px;
+	left: 240px;
+}
+
+#square10 {
+	width: 20px;
+	height: 20px;
+	background: red;
+	position: absolute;
+	top: 140px;
+	left: 240px;
+}
+
+#square11 {
+	width: 20px;
+	height: 20px;
+	background: red;
+	position: absolute;
+	top: 90px;
+	left: 240px;
+}
+
+#rectangle5 {
+	width: 200px;
+	height: 100px;
+	background: yellow;
+	position: absolute;
+	left: 405px;
+	top: 166px;
+}
+
+#triangle-up3 {
+	width: 0;
+	height: 0;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	border-bottom: 100px solid red;
+	position: absolute;
+	left: 450px;
+	top: 76
+}
+
+
+#triangle-up4 {
+	width: 0;
+	height: 0;
+	border-left: 63px solid transparent;
+	border-right: 63px solid transparent;
+	border-bottom: 90px solid blue;
+	position: absolute;
+	left: 382px;
+	top: 110
+}
+
+#rectangle6 {
+	width: 74px;
+	height: 50px;
+	background: red;
+	position: absolute;
+	left: 409px;
+	top: 216px;
+}
+
+#circle3 {
+	width: 23px;
+	height: 23px;
+	background: yellow;
+	border-radius: 50px;
+	border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	top: 165px;
+	left: 432px;
+}
+
+#circle3:hover{
+	background-color: green
+}
+
+#rectangle7 {
+	width: 24px;
+	height: 34px;
+	background: blue;
+	position: absolute;
+	left: 529px;
+	top: 232px;
+}
+
+
+#circle4 {
+	width: 23px;
+	height: 23px;
+	background: blue;
+	border-radius: 50px;
+	border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	top: 220px;
+	left: 530px;
+}
+
+#square12 {
+	width: 20px;
+	height: 20px;
+	background: blue;
+	position: absolute;
+	top: 227px;
+	left: 568px;
+}
+
+#square13 {
+	width: 20px;
+	height: 20px;
+	background: blue;
+	position: absolute;
+	top: 189px;
+	left: 568px;
+}
+
+#square14 {
+	width: 20px;
+	height: 20px;
+	background: blue;
+	position: absolute;
+	top: 227px;
+	left: 497px;
+}
+
+#square15 {
+	width: 20px;
+	height: 20px;
+	background: blue;
+	position: absolute;
+	top: 189px;
+	left: 497px;
+}
+
+#circle5 {
+	width: 3px;
+	height: 3px;
+	background: red;
+	border-radius: 50px;
+	border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	top: 244px;
+	left: 547px;
+}
