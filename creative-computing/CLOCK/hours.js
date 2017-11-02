@@ -4,6 +4,8 @@ window.setInterval(function(){
 
 	console.log(thisHour);
 
+	
+
 	if(thisHour==0){
 		document.location.replace('../CLOCK0AM/index.html');
 	}else if(thisHour == 1){
