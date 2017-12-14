@@ -5,8 +5,7 @@ var dirY = 1; //used to change the circle's Vertical direction
 var speed = 3; //used to change the circle's speed  
 
 function setup(){
-    createCanvas(1270, 640);
-    
+    createCanvas(1270, 640);   
 }
 
 function draw() {
@@ -28,6 +27,7 @@ function draw() {
         //keeps the ellipse inside of the right edge, 
         //there is no limit for the left edge because that
         //is where the ball is supposed to go out of the canvas.
+        //object of the game is to click the elipse away from going out of the left side
         dirX = -dirX;
             //reverses direction 
     }
@@ -43,7 +43,5 @@ function mousePressed() {
             //changes the speed of the ellipse as it is pressed
 
     }
-
-
     } 
         
