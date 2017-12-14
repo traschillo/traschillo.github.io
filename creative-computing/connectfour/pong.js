@@ -5,7 +5,7 @@ var dirY = 1; //used to change the circle's Vertical direction
 var speed = 3; //used to change the circle's speed  
 
 function setup(){
-    createCanvas(1200, 630);
+    createCanvas(1270, 640);
     
 }
 
@@ -46,3 +46,4 @@ function mousePressed() {
 
 
     } 
+        
