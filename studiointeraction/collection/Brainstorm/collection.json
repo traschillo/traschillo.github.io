@@ -1,0 +1,79 @@
+{
+		"Smartphone" : [
+			{"people addicted" : "244.3 million"}],
+
+		"Caffeine" : [
+			{"people addicted" : "68 million"}],
+
+		"Fast Food" : [
+			{"people addicted" : "50 million"}],
+
+		"Sugar" : [
+			{"people addicted" : "42.3 million"}],
+
+		"Nicotine" : [
+			{"people addicted" : "40 million"}],
+
+		"Pornography" : [
+			{"people addicted" : "40 million"}],
+
+		"Shopping" : [
+			{"people addicted" : "18.9 million"}],
+
+		"Alcohol" : [
+			{"people addicted" :  "18 million"}],
+
+		"Sex" : [
+			{"people addicted" : "14.7 million"}],
+
+		"Self Harm" : [
+			{"people addicted" : "13 million"}],
+
+		"Exercise" : [
+			{"people addicted" : "9.7 million"}],
+
+		"Eating Disorder" : [
+			{"people addicted" : "8 million"}],
+
+		"Hallucinogen" : [
+			{"people addicted" : "6 million"}],
+
+		"Marijuana" : [
+			{"people addicted" : "4.2 million"}],
+
+		"Gambling" : [
+			{"people addicted" : "14.7 million"}],
+
+		"Shoplifting" : [
+			{"people addicted" : "3 million"}],
+
+		"Video Games" : [
+			{"people addicted" : "3 million"}],
+
+		"Trichotillomania" : [
+			{"people addicted" : "2.5 million"}],
+
+		"Pain Killers" : [
+			{"people addicted" : "1.8 million"}],
+
+		"Performance Enhancers" : [
+			{"people addicted" : "1 million"}],
+
+		"Cocaine" : [
+			{"people addicted" : "821,000"}],
+
+		"Opioids" : [
+			{"people addicted" : "426,000"}],
+
+		"Benzodiazepines" : [
+			{"people addicted" : "400,000"}],
+
+		"Stimulants" : [
+			{"people addicted" : "329,000"}],
+
+		"Inhalants" : [
+			{"people addicted" : "140,000"}],
+
+		"Sedatives" : [
+			{"people addicted" : "78,000"}]
+	}

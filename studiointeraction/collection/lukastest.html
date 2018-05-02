@@ -1,0 +1,76 @@
+<html>
+<head>
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+
+	<style type="text/css">
+
+		.option1{
+
+			display: inline-block;
+			width: 100px;
+			height: 100px;
+			margin: 5px;
+			background-color: green;
+
+		}
+
+
+		.class1{
+
+			display: inline-block;
+			width: 100px;
+			height: 100px;
+			margin: 5px;
+			background-color: red;
+
+		}
+
+
+		.class2{
+
+			display: inline-block;
+			width: 100px;
+			height: 100px;
+			margin: 5px;
+			background-color: blue;
+
+
+		}
+
+	</style>
+
+</head>
+<body>
+
+
+	<div class="class1 class3" ></div>
+	<div class="class1 class3" ></div>
+	<div class="class1 class3" ></div>
+
+	<div class="class2 class3" ></div>
+	<div class="class2" ></div>
+	<div class="class2" ></div>
+
+
+	<div class="option1"></div>
+
+
+
+<script type="text/javascript">
+
+	$(".option1").click(function(){
+
+		$(".class1").remove() //allows for filtering
+
+
+	})
+
+</script>
+
+</body>
+</html>
